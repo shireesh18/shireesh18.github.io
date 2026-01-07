@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "2AVE9H26ZJ.com.aegon.p4l",
+          "2AVE9H26ZJ.com.aegon.p4l.acc",
+          "2AVE9H26ZJ.com.aegon.p4l.tst",
+          "2AVE9H26ZJ.com.aegon.p4l.debug"
+        ],
+        "paths": [
+          "/*"
+        ]
+      }
+    ]
+  }
+}
